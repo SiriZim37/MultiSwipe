@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="dimen_micro">4dp</dimen>
+    <dimen name="dimen_smaller">6dp</dimen>
+    <dimen name="dimen_small">8dp</dimen>
+    <dimen name="dimen_smaller_x2">12dp</dimen>
+    <dimen name="dimen_normal">16dp</dimen>
+    <dimen name="dimen_large">24dp</dimen>
+    <dimen name="dimen_extra_large">32dp</dimen>
+    <dimen name="dimen_large_x2">48dp</dimen>
+    <dimen name="dimen_extra_large_x2">64dp</dimen>
+    <dimen name="dimen_huge">72dp</dimen>
+</resources>

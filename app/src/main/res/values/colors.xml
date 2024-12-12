@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#ffcc0000</color>
+    <color name="colorPrimary">#ff33b5e5</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="bottomBarBackground">#ebebeb</color>
+    <color name="background">#fafafa</color>
+    <color name="listItemBackground">#ffffff</color>
+    <color name="divider">#e1e1e1</color>
+    <color name="swipeBehindBackground">#d0184c</color>
+    <color name="swipeBehindBackgroundSecondary">#17af98</color>
+    <color name="swipeBehindTextColor">#ffffff</color>
+
+</resources>
+
