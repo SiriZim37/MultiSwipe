@@ -17,9 +17,3 @@ The **MultiSwipe** Android app allows users to perform multiple swipe gestures o
 - **Android Studio**: Ensure you have Android Studio installed with the necessary SDK and tools for Kotlin development.
 - **Kotlin Support**: Kotlin plugin enabled in Android Studio (usually enabled by default).
 
-### Clone the Repository
-
-To get started, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/multiswipe.git
